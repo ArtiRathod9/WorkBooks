@@ -1,6 +1,6 @@
 # WorkBooks
 # 1. Week1 _Data _Excel
-### ✅Legal Frameworks for Handling Data:
+# ✅Legal Frameworks for Handling Data:
 | Law/Regulation | What is it? | Importance | Real-world Application | Impact on Data Work | Breach Consequences |
 |----------------|-------------|------------|-------------------------|---------------------|----------------------|
 | **Data Protection Act** | UK law regulating personal data | Ensures privacy and lawful use | Maintain transparency and security | Affects recruitment and record-keeping | Data loss, legal consequences |
@@ -84,45 +84,58 @@ Please see below chart shows profit summary by Year
 ---
 ## 📘 Week 2 Tableau and Power BI Summary
 ---
-
-## 📅 Day 1
-
-### 🗂 Task 1: Tableau Versions Comparison
 # 📊 Tableau Fundamentals
 
-## 🚀 What is Tableau?
+#🚀 What is Tableau?
 Tableau is a powerful data visualization tool used for converting raw data into interactive, understandable dashboards and reports.
 
-## 💡 Key Features:
+# 💡 Key Features:
 - Drag-and-drop interface
 - Real-time data analytics
 - Connects to various data sources (Excel, SQL, cloud platforms)
 - Dashboard creation and sharing
 - Integration with R and Python for advanced analytics
 
-## 📈 Common Visualizations:
+# 📈 Common Visualizations:
 - Bar and Line Charts
 - Maps
 - Pie Charts
 - Heat Maps
 - Scatter Plots
 
-## 🔧 Basic Concepts:
+# 🔧 Basic Concepts:
 - **Worksheet**: A single view containing a chart or map.
 - **Dashboard**: A collection of worksheets in one view.
 - **Story**: A sequence of sheets that tell a data narrative.
 - **Dimensions & Measures**: Qualitative and quantitative data categories.
 - **Filters, Parameters, Sets & Groups**: Tools for refining and segmenting data.
 
-## 🛠️ Example Workflow:
+# 🛠️ Example Workflow:
 1. Connect to data
 2. Drag fields to rows/columns
 3. Choose chart type
 4. Apply filters
 5. Build dashboard
 ---
-
-
+Please see below some Visulisation with Tebleau
+---
+- Using the EMSI_JobChange_UK dataset,This horizontal bar chart shows the percentage change in job opportunities across various UK cities.
+---
+![jobchange_city](jobchange_city.png)
+---
+- UK based map showing the key city locations impacted by changing jobs.
+---
+![ukcity_map](ukcity_map.png)
+---
+![lifexpt](lifexpt.png)
+---
+- Chart Explanation: Life Expectancy by Country
+- This bar chart shows life expectancy by country, split by gender:
+- Orange bars represent female life expectancy.
+- Blue bars represent male life expectancy.
+- The x-axis shows the total number of expected life years.
+- Countries are listed on the y-axis.
+---
 # 📊 Power BI Fundamentals
 
 ## 🚀 What is Power BI?
@@ -156,6 +169,26 @@ Power BI is a Microsoft business analytics tool that provides interactive visual
 3. Build visuals on the report canvas
 4. Add interactivity (filters, slicers)
 5. Publish to Power BI Service
+---
+Power BI Visulisation
+---
+![advn](advn.png)
+---
+- This Power BI dashboard titled "Overview" presents key sales performance metrics for a fictional company, Adventure Works.
+- 🔷 Top Visual: Clustered Column & Line Chart
+- X-Axis: Likely represents months or date range.
+- Bars (Column Chart): Represent Sales Value by month.
+- Line: Represents another metric like Sales Target or Profit Trend over the same period.
+- Insight: This dual-axis visual allows easy comparison of actual sales vs target, showing performance trends over time.
+- 🟪 Bottom Left Visual: Clustered Column Chart
+- Title (partially visible): Probably Sales by Category or Product Line.
+- X-Axis: Categories or product types.
+- Bars: Represent sales volume or revenue per category.
+- Insight: Identifies which product categories are top performers and which may need improvement or marketing focus.
+- 🔵 Bottom Right Visual: Horizontal Bar Chart
+- Title (partially visible): Likely Sales by Region or Salesperson.
+- Bars: Represent performance per geographic area or employee.
+- Insight: Shows who or which region is driving the highest sales, helping management recognize top performers or areas needing attention.
 
 ## 📝 Course Notes
 
@@ -163,14 +196,6 @@ Power BI is a Microsoft business analytics tool that provides interactive visual
 - Leverage data storytelling and interactive visuals for stakeholder insights.
 - Use Power Query effectively for data transformation.
 - Health and music datasets provided real-world use case applications.
-
----
-
-## 📊 Visualization Example: Danceability vs Popularity (Spotify)
-
-Below is a sample graph created to show the relationship between danceability and popularity in Spotify tracks:
-
-![Spotify_trend_chart](spotify_trend_chart.png)
 
 ---
 
