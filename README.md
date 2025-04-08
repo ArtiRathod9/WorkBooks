@@ -12,12 +12,11 @@
 ## 📊 Day 2: Tasks 1–3
 
 ### 🗂 Task 1: Excel Table & Formulas
-![Employee Commissions](employee_commissions.png)
-- Created a table from columns A–J
+- Created a table Employee
 - Used `FILTER` on Age (largest to smallest)
 - Applied `SUM` in L10 for commission total
 - Used `AVERAGE` in L11 for commission average
-
+---
 ### 🧮 Task 2: Student Data Analysis
 - Found highest scores in Maths and Science
 - Calculated average and max scores
@@ -42,7 +41,7 @@
   - Country (e.g., Germany)
   - Age and Gender
   - Found profitable segments
-
+  
 ### 📊 Task 2: Sales Volume Analysis
 - Dataset: County-wise product sales
 - Created Pivot Table by County and Product
@@ -53,7 +52,9 @@
 - Worked with bike sales data
 - Built charts for better understanding
 - Explored chart types and visual storytelling
-
+---
+Please see below chart shows profit summary by Year
+![bikes](bikes.png)
 ---
 ## 🎤 Day 4: Task 1 – Presenting to Board
 - **Delivery Prep**:
