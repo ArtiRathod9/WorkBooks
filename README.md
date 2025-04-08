@@ -120,13 +120,6 @@ Tableau is a powerful data visualization tool used for converting raw data into 
 3. Choose chart type
 4. Apply filters
 5. Build dashboard
-
-## 📚 Use Cases:
-- Sales performance dashboards
-- Customer segmentation analysis
-- Operational monitoring
-
-
 ---
 
 
@@ -163,85 +156,6 @@ Power BI is a Microsoft business analytics tool that provides interactive visual
 3. Build visuals on the report canvas
 4. Add interactivity (filters, slicers)
 5. Publish to Power BI Service
-
-## 📚 Use Cases:
-- Executive dashboards
-- Financial reports
-- Departmental analytics
-Several Tableau versions from 2019 to 2024 were explored. Key takeaways include:
-
-- **Ask Data** and **Explain Data** features enable natural language querying and outlier analysis.
-- **Dashboard improvements**: vector maps, parameter actions, and animations were added across updates.
-- **Security and scale**: features like encryption at rest and server management enhancements.
-- **AI integrations**: Recent versions (2023-2024) introduced Tableau Pulse, Viz Extensions, and generative AI capabilities.
-- **Tableau Public Limitations**: Limited ability to connect to certain data sources and inability to keep workbooks private.
-
-### 🗂 Task 2: EMSI Job Change Dashboard
-
-**Goal**: Visualize % job change via bar chart and impacted cities via UK map.
-
-🖼️ *Screenshot Placeholder*
-
----
-
-## 📅 Day 2
-
-### 🗂 Task 1: Spotify Dataset Analysis
-
-**Explored Trends**:
-- Danceability vs Popularity
-- Energy and Tempo vs Liveness, Loudness
-- Use of scatter and line charts revealed useful genre patterns for artists to optimize music production.
-
-🖼️ *Scatterplot: Danceability vs Popularity*
-
-### 🗂 Task 2: Health Dataset Analysis
-
-**Key Trends Identified**:
-- Popularity over time and gender-based life expectancy.
-- Global population growth by continent.
-- Trends in BMI, BP, and Cholesterol.
-- Cancer trends: Liver vs Lung cancer
-
-**NHS Use Case**:
-- Identifying disease trends to aid in prevention
-- Predicting life expectancy and analyzing demographic risks
-
-🖼️ *Life Expectancy and Population Trends Chart Placeholder*
-
----
-
-## 📅 Day 3
-
-### 🗂 Task 1: Power BI Lab - Get Data
-
-Successfully completed Power BI Desktop lab to import and explore datasets.
-
-🖼️ *Lab 1 Screenshot Placeholder*
-
-### 🗂 Task 2: Power BI Lab - Transform Data
-
-Used Power Query to clean and transform data.
-
-🖼️ *Lab 2 Screenshot Placeholder*
-
----
-
-## 📅 Day 4
-
-### 🗂 Task 1: Report Design in Power BI
-
-Created custom reports with visuals. Faced issues with missing target values.
-
-🖼️ *Report Screenshot Placeholder*
-
-### 🗂 Task 2: Dashboard in Power BI Service
-
-Designed interactive dashboards summarizing KPIs and trends.
-
-🖼️ *Dashboard Screenshot Placeholder*
-
----
 
 ## 📝 Course Notes
 
