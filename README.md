@@ -82,7 +82,7 @@ Please see below chart shows profit summary by Year
 - Explored data categorization and summarization methods
 
 ---
-## 📘 Week 2 Tableau and Power BI Summary
+## 📘 2. Week 2 Tableau and Power BI Summary
 ---
 # 📊 Tableau Fundamentals
 
@@ -198,7 +198,7 @@ Power BI Visulisation
 - Health and music datasets provided real-world use case applications.
 
 ---
-# 📘 Week 3 -Reletaional Database and SQL
+# 📘 3.Week 3 -Reletaional Database and SQL
 ---
 
 ## Day 1: Task 1 – Database Concepts
@@ -326,6 +326,51 @@ SELECT Country.Name, City.Name, GNP FROM Country INNER JOIN City ON Country.Capi
 ```
 
 ---
+# 4.☁️ Week 5 - Microsoft Azure Cloud Computing
+
+## ✅ What is Cloud Computing?
+Cloud computing is the delivery of computing services—such as **storage**, **servers**, **databases**, **networking**, **software**, and **analytics**—over the internet (“the cloud”). It allows users and businesses to access resources on-demand without managing physical hardware.
+
+---
+
+## 🌍 Real-World Benefits of Cloud Computing
+
+| **Category**           | **Personal Use**                                                                 | **Business Use**                                                                 |
+|------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Data Storage & Access** | Store photos/docs via Google Drive, iCloud, etc. | Store large datasets remotely with remote team access.                         |
+| **Collaboration**      | Use Google Docs or Office 365 with others in real-time.                          | Remote teams can work together using Slack, Zoom, Trello.                      |
+| **Cost Efficiency**    | Avoid buying software/hardware.                                                  | Pay-as-you-go reduces IT costs.                                                |
+| **Scalability**        | Stream content on-demand (Netflix, Prime).                                       | Scale up/down server resources during high demand (e.g., Black Friday).        |
+| **Backup & Recovery**  | Auto-backup on Google Photos/iCloud.                                             | Quick disaster recovery with cloud backups.                                    |
+| **Security**           | Cloud platforms offer strong encryption and 2FA.                                 | Enhanced enterprise-grade security and compliance.                             |
+| **Mobility**           | Access from any device, anywhere.                                                | Enables remote work and mobile access.                                         |
+| **AI & Automation**    | Use AI assistants (Alexa, Siri).                                                 | Automate processes and analytics using ML models.                              |
+| **IoT Integration**    | Control smart devices via cloud apps.                                            | Monitor and analyze IoT data in real-time.                                     |
+| **SaaS Accessibility** | Use Gmail, Netflix, Spotify without installations.                               | Use Salesforce, QuickBooks, Microsoft 365.                                     |
+
+---
+
+## 🔁 Alternatives to Cloud Computing
+
+| **Model**           | **Description**                                                                 |
+|---------------------|----------------------------------------------------------------------------------|
+| **Fog Computing**   | Processes data near the source, between edge devices and cloud.                  |
+| **Edge Computing**  | Handles data at or near the device to reduce latency.                            |
+| **Mesh Computing**  | Decentralized systems for resource sharing.                                      |
+| **Bare Metal Cloud**| Dedicated physical servers offered via the cloud.                                |
+| **On-Prem Hosting** | Traditional local infrastructure managed in-house.                               |
+
+---
+
+## 🌐 Top Cloud Providers & Their Features
+
+| **Provider**       | **Key Features**                                                                                  |
+|--------------------|---------------------------------------------------------------------------------------------------|
+| **AWS**            | Largest provider; wide range of services; scalable and flexible; used by Netflix, Uber, Airbnb.   |
+| **Microsoft Azure**| Fast-growing; excellent Windows integration; hybrid options; used by Starbucks, Coca-Cola, JPMorgan. |
+| **Google Cloud**   | Strong in AI/ML and data analytics.                                                               |
+| **IBM, Oracle, Alibaba** | Enterprise-focused with strong legacy integrations.                                           |
+
 
 
 
