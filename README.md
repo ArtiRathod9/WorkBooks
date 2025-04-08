@@ -88,7 +88,86 @@ Please see below chart shows profit summary by Year
 ## 📅 Day 1
 
 ### 🗂 Task 1: Tableau Versions Comparison
+# 📊 Tableau Fundamentals
 
+## 🚀 What is Tableau?
+Tableau is a powerful data visualization tool used for converting raw data into interactive, understandable dashboards and reports.
+
+## 💡 Key Features:
+- Drag-and-drop interface
+- Real-time data analytics
+- Connects to various data sources (Excel, SQL, cloud platforms)
+- Dashboard creation and sharing
+- Integration with R and Python for advanced analytics
+
+## 📈 Common Visualizations:
+- Bar and Line Charts
+- Maps
+- Pie Charts
+- Heat Maps
+- Scatter Plots
+
+## 🔧 Basic Concepts:
+- **Worksheet**: A single view containing a chart or map.
+- **Dashboard**: A collection of worksheets in one view.
+- **Story**: A sequence of sheets that tell a data narrative.
+- **Dimensions & Measures**: Qualitative and quantitative data categories.
+- **Filters, Parameters, Sets & Groups**: Tools for refining and segmenting data.
+
+## 🛠️ Example Workflow:
+1. Connect to data
+2. Drag fields to rows/columns
+3. Choose chart type
+4. Apply filters
+5. Build dashboard
+
+## 📚 Use Cases:
+- Sales performance dashboards
+- Customer segmentation analysis
+- Operational monitoring
+
+
+---
+
+
+# 📊 Power BI Fundamentals
+
+## 🚀 What is Power BI?
+Power BI is a Microsoft business analytics tool that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports.
+
+## 💡 Key Features:
+- Seamless integration with Microsoft products (Excel, Azure, etc.)
+- Interactive dashboards
+- Power Query for data transformation
+- Power BI Service (cloud) and Power BI Desktop (local)
+- DAX (Data Analysis Expressions) for calculated columns/measures
+
+## 📈 Common Visualizations:
+- Column and Bar Charts
+- Cards and KPIs
+- Slicers
+- Line and Area Charts
+- Matrix and Tables
+- Custom visuals from marketplace
+
+## 🔧 Basic Concepts:
+- **Reports**: Multi-page data visualizations.
+- **Dashboards**: One-page summary of report visuals.
+- **Datasets**: Connected and modeled data sources.
+- **Dataflows**: ETL-like process in cloud.
+- **Relationships**: Table linkages for relational modeling.
+
+## 🛠️ Example Workflow:
+1. Load data in Power BI Desktop
+2. Transform using Power Query
+3. Build visuals on the report canvas
+4. Add interactivity (filters, slicers)
+5. Publish to Power BI Service
+
+## 📚 Use Cases:
+- Executive dashboards
+- Financial reports
+- Departmental analytics
 Several Tableau versions from 2019 to 2024 were explored. Key takeaways include:
 
 - **Ask Data** and **Explain Data** features enable natural language querying and outlier analysis.
@@ -177,7 +256,7 @@ Designed interactive dashboards summarizing KPIs and trends.
 
 Below is a sample graph created to show the relationship between danceability and popularity in Spotify tracks:
 
-![Danceability vs Popularity](spotify_trend_chart.png)
+![Spotify_trend_chart](spotify_trend_chart.png)
 
 ---
 
