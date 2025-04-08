@@ -371,8 +371,98 @@ Cloud computing is the delivery of computing services—such as **storage**, **s
 | **Google Cloud**   | Strong in AI/ML and data analytics.                                                               |
 | **IBM, Oracle, Alibaba** | Enterprise-focused with strong legacy integrations.                                           |
 
+---
+# 🐍 6. Week 6 Python Overview 
 
+## 📌 What is Python?
+Python is a high-level, interpreted programming language known for:
+- Simple and readable syntax
+- Versatility across domains (web, data, automation, AI)
+- Support for multiple programming paradigms (procedural, OOP, functional)
 
+### 🔧 Key Uses of Python
+- **Web Development**: Django, Flask
+- **Data Analysis**: Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow
+- **Scripting & Automation**: Automate daily tasks
+- **Cross-platform Apps**: Works on Windows, Mac, Linux
+
+---
+
+## 📘 Summary: Data Technician Workbook – Week 6
+
+### 1. 🚀 Introduction to Python Programming
+- Understand Python syntax and script basics
+- Use of comments (`#`), variables, and various data types:
+  - **int**, **float**, **str**, **bool**
+
+### 2. ➗ Operators and Expressions
+- Arithmetic operators: `+`, `-`, `*`, `/`, `//`, `%`
+- Comparison: `==`, `!=`, `<`, `>`, `<=`, `>=`
+- Logical: `and`, `or`, `not`
+
+### 3. 🔁 Control Flow
+- **Conditional statements**: `if`, `elif`, `else`
+- **Loops**: `for` and `while`
+- Indentation is essential for block structure
+
+### 4. 🧺 Data Structures
+- **Lists**: Ordered, mutable collections
+  ```python
+  fruits = ['apple', 'banana']
+  fruits.append('orange')
+  ```
+- **Tuples**: Ordered, immutable
+- **Dictionaries**: Key-value pairs
+- **Sets**: Unordered collections of unique elements
+
+### 5. 🔧 Functions
+- Defined using `def`, support parameters and return values
+  ```python
+  def greet(name):
+      return f"Hello, {name}"
+  ```
+### Import libraries
+- Import libraries like panda, metplotlib and seaborn
+- Importing Matploitlib and Seaborn library for visualisation:
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+
+## Visualisation with Python
+Bar chart 
+![pbar](pbar.png)
+- The visualization is a horizontal bar chart that shows IMF Estimates of a certain metric (likely economic value such as GDP or funding) across various UN Regions.
+- What the Chart Shows:
+- X-axis: IMF_Estimate – the estimated value (e.g., in millions or billions).
+- Y-axis: UN_Region – different world regions grouped by the United Nations.
+- Bars represent the estimated value for each region.
+- 📊 Insights:
+- Europe has the highest IMF estimate by a large margin, more than double the next highest (Asia).
+- Africa has the lowest estimate, indicating lower economic value or funding in this context.
+- The World total (13,440) might represent an average or combined subset.
+---
+Heat Map
+![pheat](pheat.png)
+
+- This visualization is a correlation heatmap, and it helps us understand how strongly related the following three estimates are:
+- IMF_Estimate
+- UN_Estimate
+- WorldBank_Estimate
+- 📊 Interpretation:
+- Comparison	Correlation (Approx.)	Meaning
+- IMF vs UN Estimate	~0.65	Moderate correlation
+- IMF vs World Bank Estimate	~0.60	Moderate correlation
+- UN vs World Bank Estimate	~0.85	Strong correlation ✅
+---
+
+---
+Histogram
+![phstgrm](phstgrm.png)
+- A histogram shows the distribution of values in a dataset — how often different ranges of values appear.
+---
+
+- Thank you for your time.
 
 
 
