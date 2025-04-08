@@ -198,6 +198,134 @@ Power BI Visulisation
 - Health and music datasets provided real-world use case applications.
 
 ---
+# 📘 Week 3 -Reletaional Database and SQL
+---
+
+## Day 1: Task 1 – Database Concepts
+
+- **Primary Key**: Uniquely identifies each row in a table.
+- **Secondary Key**: Used in extended tables, not a unique identifier.
+- **Foreign Key**: Links data between tables, referencing a primary key.
+- **Relationships**:
+  - One-to-One: Driver and Car
+  - One-to-Many: Teacher and Students
+  - Many-to-Many: Students and Courses
+
+---
+
+## Day 1: Task 2 – Relational vs Non-relational
+
+- **Relational DB**: Structured, tabular, uses SQL.
+- **Non-relational DB (NoSQL)**: Uses key-value, document, graph, or column models. Best for:
+  - Unstructured/semi-structured data
+  - Scalable applications across machines
+
+---
+
+## Day 3: Task 1 – SQL Joins
+
+| Join Type | Description |
+|-----------|-------------|
+| **Self Join** | Join a table to itself. |
+| **Right Join** | All from right table + matches from left. |
+| **Full Join** | All records from both tables. |
+| **Inner Join** | Only matching records from both tables. |
+| **Cross Join** | Cartesian product of both tables. |
+| **Left Join** | All from left table + matches from right. |
+
+---
+
+## Day 4: Task 1 – Retail Database Design
+
+### 🏪 **Business Requirements**
+- Tables: Products, Customers, Sales
+- Users: Managers, Staff, IT Support
+
+### 🗂️ **Tables Structure**
+- **Inventory Table**: `productID`, `ProductName`, `UnitPrice`, `Stock`
+- **CustomerInfo Table**: `CustomerID`, `CustomerName`, `Email`, `LoyaltyPoint`
+- **SalesInfo Table**: `SalesID`, `CustomerID`, `productID`, `Quantity`, `TotalPrice`, `SalesDate`
+
+### 🧱 **SQL Examples**
+```sql
+CREATE DATABASE IF NOT EXISTS FastAndFresh;
+
+CREATE TABLE Inventory1 (
+  productID INT PRIMARY KEY,
+  ProductName VARCHAR(1000),
+  UnitPrice DECIMAL(10,2),
+  Stock INT
+);
+
+CREATE TABLE CustomerInfo (
+  CustomerID INT PRIMARY KEY,
+  CustomerName VARCHAR(1000),
+  Email VARCHAR(200),
+  LoyalytPoint INT
+);
+
+CREATE TABLE SalesInfo (
+  SalesID INT PRIMARY KEY,
+  CustomerID INT,
+  productID INT,
+  Quantity INT NOT NULL,
+  TotalPrice INT NOT NULL,
+  SalesDate DATE,
+  FOREIGN KEY (productID) REFERENCES Inventory1(productID),
+  FOREIGN KEY (CustomerID) REFERENCES CustomerInfo(CustomerID)
+);
+```
+
+### ➕ **Insert Examples**
+```sql
+INSERT INTO CustomerInfo VALUES (1, 'Dan Healy', 'DanH@hotmail.com', 100);
+INSERT INTO Inventory1 VALUES (1, 'Milk', 1.50, 20);
+INSERT INTO SalesInfo VALUES (1, 1, 1, 2, 4, '2025-01-04');
+```
+
+---
+
+## Day 4: Task 2 – SQL Practical Tasks
+
+Examples of SQL Queries completed:
+
+- Count cities in USA:
+```sql
+SELECT CountryCode, COUNT(*) FROM city WHERE CountryCode='USA';
+```
+
+- Highest life expectancy:
+```sql
+SELECT Name, MAX(LifeExpectancy) FROM country;
+```
+
+- Cities with ‘New’ in the name:
+```sql
+SELECT Name FROM city WHERE Name LIKE '%New%';
+```
+
+- Top 10 populous cities:
+```sql
+SELECT Name, Population FROM city ORDER BY Population DESC LIMIT 10;
+```
+
+- Most/Least Populated Cities:
+```sql
+SELECT Name, MAX(Population) FROM city;
+SELECT Name, MIN(Population) FROM city;
+```
+
+- Capital of Spain:
+```sql
+SELECT * FROM city WHERE CountryCode='ESP' AND District='Madrid';
+```
+
+- GDP per capita:
+```sql
+SELECT Country.Name, City.Name, GNP FROM Country INNER JOIN City ON Country.Capital = City.ID ORDER BY GNP DESC;
+```
+
+---
 
 
 
