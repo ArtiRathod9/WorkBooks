@@ -50,6 +50,45 @@
 ![powerBi](Visualisation/advn.png)
 ---
 ## Week 3 Relational Database & SQL Queries
-- SQL Joins
-![SQL Joins](Visualisation/jn.png)
+### 🔗 SQL Joins Reference
+#### ✅ **INNER JOIN**
+Returns only matching rows between both tables.
+```sql
+SELECT Customers.name, Orders.product
+FROM Customers
+INNER JOIN Orders ON Customers.customer_id = Orders.customer_id;
+```
+---
+####👈 **LEFT JOIN**
+Returns all records from the left table, and matched records from the right.
+```sql
+SELECT Customers.name, Orders.product
+FROM Customers
+LEFT JOIN Orders ON Customers.customer_id = Orders.customer_id;
+```
+---
+#### 👉 **RIGHT JOIN**
+Returns all records from the right table, and matched records from the left.
+```sql
+SELECT Customers.name, Orders.product
+FROM Customers
+RIGHT JOIN Orders ON Customers.customer_id = Orders.customer_id;
+```
+---
+#### 🔄 **FULL OUTER JOIN**
+Returns all records when there is a match in either left or right table.
+```sql
+SELECT Customers.name, Orders.product
+FROM Customers
+FULL OUTER JOIN Orders ON Customers.customer_id = Orders.customer_id;
+```
+---
+#### 🔁 **SELF JOIN**
+Joins a table with itself. Useful for hierarchical data (e.g., employees & managers).
+```sql
+SELECT 
+    e.name AS employee,
+    m.name AS manager
+FROM Employees e
+LEFT JOIN Employees m ON e.manager_id = m.employee_id;
 
