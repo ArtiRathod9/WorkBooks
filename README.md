@@ -204,7 +204,7 @@ Python is a high-level, interpreted programming language known for:
 ---
 #### Histogram Chart in Python
 ![histogram](Visualisation/phstgrm.png)
----
+
 This week6 , I used Python and the Pandas library within Jupyter Notebook to explore, clean, manipulate, and analyze both structured and real-world datasets.
 -Worked with datasets such as student.csv and GDP per capita
 -Applied techniques like grouping, aggregation, and pivoting
@@ -213,7 +213,6 @@ This week6 , I used Python and the Pandas library within Jupyter Notebook to exp
 -🌊 Seaborn
 -📊 Plotly
 Gained confidence in programmatically identifying trends and presenting data in a clear and interactive format.
----
 
 # 🧠 Skills & Experience Overview
 - Solid understanding od Data and Big Data.
@@ -224,3 +223,8 @@ Gained confidence in programmatically identifying trends and presenting data in 
 - Applied Python (Pandas, Seaborn, Plotly) for data loading, data manipulation, analysis, and interactive visualisation.
 - Familiar with GDPR regulations, data ethics, and fundamentals of cloud computing using Microsoft Azure.
 - Hands-on experience with Azure data services, demonstrating a practical grasp of cloud-based data workflows.
+---
+# 📘 Workbook Overview
+These weekly workbooks showcase my journey of becoming a data analyst- each week building a technical skills,critical thinking and analytical writing. Each module introduced new challenges and hands-on projects that strengthened my understanding of the entire data lifecycle — from data collection and cleaning to analysis, visualisation, and storytelling. They reflect both my growth and my enthusiasm for continuous learning in the data field.
+
+#
