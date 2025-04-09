@@ -1,6 +1,6 @@
 # 📚 Data Skills Bootcamp - Just IT
 
-## Tools Learn
+##  🛠️ Tools Learn
 
 - 📊 **Excel** – Spreadsheets, formulas, pivot tables , VLOOKUP/XLOOKUP
 - 📈 **Power BI** –Power Query, DAX and Data Dashboards
