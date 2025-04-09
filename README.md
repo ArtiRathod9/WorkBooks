@@ -31,17 +31,23 @@
 ## 📊📘 Visualizations by Weekly Workbook
 ---
 ### Week 1 - Excel Functions , Pivot Table , Vlookup
-- Excel functions
+#### Excel functions
 ![Excel Function](Visualisation/exlfn.png)
-- Vlookup and Xlookup formulas and output
-![Vlookup](Visualisation/vlkp.png)
-![Xlookup](Visualisation/xlkp.png)
-![Output](Visualisation/vxlkp.png)
-- Pivot Table and bar Chart
-![Pivot Table](Visualisation/pvt.png)
-- Switch Function
-![Switch](Visualisation/swt.png)
-
+#### Vlookup and Xlookup formulas and output
+ ![Vlookup](Visualisation/vlkp.png)
+ 
+ ![Xlookup](Visualisation/xlkp.png)
+ 
+ ![Output](Visualisation/vxlkp.png)
+#### Pivot Table and bar Chart
+ ![Pivot Table](Visualisation/pvt.png)
+#### Switch Function
+ ![Switch](Visualisation/swt.png)
+---
+## Week 2 Tableau and Data Visualisation
+#### Tableau Dashboard
+#### PowerBI Dashboard
+![powerBi](Visualisation/advn.png)
 
 
 
