@@ -15,7 +15,7 @@
 - Areas covered on bootcamp like what is Data/Big Data, Data cleaning, Analysis,Visualisation, interactive dashboards, Cloud Services, GDPR & Data Ethics, SQL Queries, Python Scripting.
 ---
 ## 📆💻 Weekly Training and Tools learn
-#### 📘 Week 1: Excel Essentials & Data Analysis Foundations
+#### 📘 Week 1: Excel Essentials, Data Analysis Foundations, DPA & GDPR
 - Topics Covered: Data handling in Excel, key functions, PivotTables, VLOOKUP, and chart creation.
 #### 📊 Week 2: Power BI & Tableau Dashboards
 - Projects: Spotify Listening Trends Dashboard (Power BI) & NHS Healthcare Insights Dashboard (Tableau)
@@ -27,7 +27,20 @@
 #### 🐍 Week 6: Python for Data Analysis & Visualization
 - Topics Covered:
 - Data manipulation with pandas , Data visualization using Matplotlib and Seaborn, Exploratory Data Analysis (EDA) and basic charting techniques
-
+---
+## 📊📘 Visualizations by Weekly Workbook
+---
+### Week 1 - Excel Functions , Pivot Table , Vlookup
+- Excel functions
+![exlfn](Visualisation\exlfn.png)
+- Vlookup and Xlookup formulas and output
+![vlkp](Visualisation\vlkp.png)
+![xlkp](Visualisation\xlkp.png)
+![vxlkp](Visualisation\vxlkp.png)
+- Pivot Table and bar Chart
+![pvt](Visualisation\pvt.png)
+- Switch Function
+![swt](Visualisation\swt.png)
 
 
 
