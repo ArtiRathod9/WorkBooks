@@ -1,6 +1,6 @@
 # 📚 Data Skills Bootcamp - Just IT
 
-##  🛠️ Tools Learn
+##  🛠️ Tools List
 
 - 📊 **Excel** – Spreadsheets, formulas, pivot tables , VLOOKUP/XLOOKUP
 - 📈 **Power BI** –Power Query, DAX and Data Dashboards
@@ -14,7 +14,7 @@
 - The Data Skills Bootcamp is an intensive, hands-on training program designed to build real-world data capabilities through practical exercises and project-based learning. Participants will gain experience with leading data visualization and analysis tools including Power BI, Tableau, Python, SQL, and Excel.
 - Areas covered on bootcamp like what is Data/Big Data, Data cleaning, Analysis,Visualisation, interactive dashboards, Cloud Services, GDPR & Data Ethics, SQL Queries, Python Scripting.
 ---
-## 📆💻 Weekly Training and Tools learn
+### 📆💻 Weekly Training and Tools learn
 #### 📘 Week 1: Excel Essentials, Data Analysis Foundations, DPA & GDPR
 - Topics Covered: Data handling in Excel, key functions, PivotTables, VLOOKUP, and chart creation.
 #### 📊 Week 2: Power BI & Tableau Dashboards
@@ -172,10 +172,15 @@ VALUES (2, 2, 2, 2, 3, '2025-01-04');
 ### 5. ☁️ Week 5 Cloud Storage ,Microosft Azure and Labs
 ☁️ What is Microsoft Azure?
 Microsoft Azure is a cloud computing platform and service created by Microsoft. It provides a wide range of cloud-based solutions that allow businesses and individuals to build, manage, and deploy applications and services through Microsoft-managed data centers.
-###### Azure Labs
-####### Explore Relation Data in Azure
+#### Azure Labs
+---
+##### Lab1:Explore Relation Data in Azure
 ![Azure lab](Visualisation/az1.png)
-####### Explore Non Relation Data in Azure
+---
+##### Lab2: Explore Non Relation Data in Azure
 ![Azure lab2](Visualisation/az2.png)
-####### Azure DP-900 practice Exam
+---
+#### Lab3: Azure DP-900 practice Exam
 ![Azure Exam](Visualisation/azf.png)
+---
+### 6.🐍 Week 6 Python scripting langauge and Python Libraries
