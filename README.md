@@ -164,4 +164,7 @@ VALUES (1, 1, 1, 2, 4, '2025-01-04');
 
 INSERT INTO SalesInfo (SalesID, CustomerID, productID, Quantity, TotalPrice, SalesDate)
 VALUES (2, 2, 2, 2, 3, '2025-01-04');
-
+---
+### 💼 Week 4: Career Development Week (Non-Technical)
+-Note:This week focused on career-building activities such as CV enhancement, interview preparation, LinkedIn optimization, and job market insights.
+ No technical workbook was submitted for this week.
