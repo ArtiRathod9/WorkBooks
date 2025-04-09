@@ -11,6 +11,6 @@
 ---
 
 ### 🚀 Data Skills Bootcamp – Overview
-- The Data Skills Bootcamp is an intensive, hands-on training program designed with the practical excerices and to learn different visualisation tools like Power BI ,Tableau,Python,SQL ,Excel.
-- Areas covered on bootcamp Data Preparation, Analysis, Dashboarding, Visualisation, Cloud Services, SQL Queries, Python Scripting, GDPR & Data Ethics
+- The Data Skills Bootcamp is an intensive, hands-on training program designed to build real-world data capabilities through practical exercises and project-based learning. Participants will gain experience with leading data visualization and analysis tools including Power BI, Tableau, Python, SQL, and Excel.
+- Areas covered on bootcamp like what is Data/Big Data, Data cleaning, Analysis,Visualisation, interactive dashboards, Cloud Services, GDPR & Data Ethics, SQL Queries, Python Scripting.
 ---
