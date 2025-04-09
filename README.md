@@ -213,3 +213,14 @@ This week6 , I used Python and the Pandas library within Jupyter Notebook to exp
 -🌊 Seaborn
 -📊 Plotly
 Gained confidence in programmatically identifying trends and presenting data in a clear and interactive format.
+---
+
+# 🧠 Skills & Experience Overview
+- Solid understanding od Data and Big Data.
+- Proficient in Excel for data lookups, pivot tables, charts.
+- Developed and published interactive dashboards in Tableau Public for location-based and trend analyses.
+- Experienced in building Power BI dashboards with basic DAX for business intelligence reporting.
+- Solid understanding of Relational Database Management Systems (RDBMS) and skilled in writing SQL queries.
+- Applied Python (Pandas, Seaborn, Plotly) for data loading, data manipulation, analysis, and interactive visualisation.
+- Familiar with GDPR regulations, data ethics, and fundamentals of cloud computing using Microsoft Azure.
+- Hands-on experience with Azure data services, demonstrating a practical grasp of cloud-based data workflows.
