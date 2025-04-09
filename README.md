@@ -1,6 +1,6 @@
 # 📚 Data Skills Bootcamp - Skill Set
 
-## 🧰 Core Tools & Technologies
+## Skill set
 
 - 📊 **Excel** – Spreadsheets, formulas, pivot tables
 - 📈 **Power BI** – Business intelligence and data dashboards
