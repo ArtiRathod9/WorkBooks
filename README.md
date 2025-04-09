@@ -189,22 +189,23 @@ Python is a high-level, interpreted programming language known for:
 - Simple and readable syntax
 - Versatility across domains (web, data, automation, AI)
 - Support for multiple programming paradigms (procedural, OOP, functional)
+---
 ##### Loading Data to Python
-![Load Data](Visualisation/pld.png)
+![Load Data](Visualisation/pld.PNG)
 ---
 #### Aggregation Function in Python
-![Aggregation Fun](Visualisation/pag.png)
+![Aggregation Fun](Visualisation/pag.PNG)
 ---
 #### Mean Function in Python
-![Mean](Visualisation/pam.png)
+![Mean](Visualisation/pmn.PNG)
 ---
 #### Barchart in Python
 ![Bar Chart](Visualisation/pbar.png)
 ---
 #### Histogram Chart in Python
-![histogram](Visualistion/phst.png)
+![histogram](Visualisation/phstgrm.png)
 ---
-###### This week6 , I used Python and the Pandas library within Jupyter Notebook to explore, clean, manipulate, and analyze both structured and real-world datasets.
+This week6 , I used Python and the Pandas library within Jupyter Notebook to explore, clean, manipulate, and analyze both structured and real-world datasets.
 -Worked with datasets such as student.csv and GDP per capita
 -Applied techniques like grouping, aggregation, and pivoting
 -Practiced creating visualizations using:
