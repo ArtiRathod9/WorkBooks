@@ -184,3 +184,25 @@ Microsoft Azure is a cloud computing platform and service created by Microsoft. 
 ![Azure Exam](Visualisation/azf.png)
 ---
 ### 6.🐍 Week 6 Python scripting langauge and Python Libraries
+#### 📌 What is Python?
+Python is a high-level, interpreted programming language known for:
+- Simple and readable syntax
+- Versatility across domains (web, data, automation, AI)
+- Support for multiple programming paradigms (procedural, OOP, functional)
+##### Loading Data to Python
+![Load Data](Visualisation/pld.png)
+---
+#### Aggregation Function in Python
+![Aggregation Fun](Visualisation/pag.png)
+---
+#### Mean Function in Python
+![Mean](Visualisation/pam.png)
+---
+#### Barchart in Python
+![Bar Chart](Visualisation/pbar.png)
+---
+#### Histogram Chart in Python
+![histogram](Visualistion/phst.png)
+---
+
+
