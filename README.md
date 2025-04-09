@@ -172,10 +172,14 @@ VALUES (2, 2, 2, 2, 3, '2025-01-04');
 ### 5. ☁️ Week 5 Cloud Storage ,Microosft Azure and Labs
 ☁️ What is Microsoft Azure?
 Microsoft Azure is a cloud computing platform and service created by Microsoft. It provides a wide range of cloud-based solutions that allow businesses and individuals to build, manage, and deploy applications and services through Microsoft-managed data centers.
-###### Azure Labs
-####### Explore Relation Data in Azure
+#### Azure Labs
+---
+##### Lab1:Explore Relation Data in Azure
 ![Azure lab](Visualisation/az1.png)
-####### Explore Non Relation Data in Azure
+---
+##### Lab2: Explore Non Relation Data in Azure
 ![Azure lab2](Visualisation/az2.png)
-####### Azure DP-900 practice Exam
+---
+#### Lab3: Azure DP-900 practice Exam
 ![Azure Exam](Visualisation/azf.png)
+---
