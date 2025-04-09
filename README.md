@@ -32,15 +32,15 @@
 ---
 ### Week 1 - Excel Functions , Pivot Table , Vlookup
 - Excel functions
-![exlfn](Visualisation\exlfn.png)
+![Excel Function](Visualisation/exlfn.png)
 - Vlookup and Xlookup formulas and output
-![vlkp](Visualisation\vlkp.png)
-![xlkp](Visualisation\xlkp.png)
-![vxlkp](Visualisation\vxlkp.png)
+![Vlookup](Visualisation/vlkp.png)
+![Xlookup](Visualisation/xlkp.png)
+![Output](Visualisation/vxlkp.png)
 - Pivot Table and bar Chart
-![pvt](Visualisation\pvt.png)
+![Pivot Table](Visualisation/pvt.png)
 - Switch Function
-![swt](Visualisation\swt.png)
+![Switch](Visualisation/swt.png)
 
 
 
