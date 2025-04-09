@@ -204,5 +204,11 @@ Python is a high-level, interpreted programming language known for:
 #### Histogram Chart in Python
 ![histogram](Visualistion/phst.png)
 ---
-
-
+###### This week6 , I used Python and the Pandas library within Jupyter Notebook to explore, clean, manipulate, and analyze both structured and real-world datasets.
+-Worked with datasets such as student.csv and GDP per capita
+-Applied techniques like grouping, aggregation, and pivoting
+-Practiced creating visualizations using:
+-📈 Matplotlib
+-🌊 Seaborn
+-📊 Plotly
+Gained confidence in programmatically identifying trends and presenting data in a clear and interactive format.
