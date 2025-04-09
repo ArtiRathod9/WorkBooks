@@ -48,6 +48,8 @@
 #### Tableau Dashboard
 #### PowerBI Dashboard
 ![powerBi](Visualisation/advn.png)
-
-
+---
+## Week 3 Relational Database & SQL Queries
+- SQL Joins
+![SQL Joins](Visualisation/jn.png)
 
